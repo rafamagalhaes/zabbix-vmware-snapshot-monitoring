@@ -4,17 +4,17 @@
     <date>2020-05-21T05:12:57Z</date>
     <groups>
         <group>
-            <name>TEMPLATES.GT</name>
+            <name>TEMPLATES</name>
         </group>
     </groups>
     <templates>
         <template>
-            <template>TEMPLATE.GT_VMWARE_SNAPSHOT_CHECK</template>
-            <name>TEMPLATE.GT_VMWARE_SNAPSHOT_CHECK</name>
+            <template>TEMPLATE_VMWARE_SNAPSHOT_CHECK</template>
+            <name>TEMPLATE_VMWARE_SNAPSHOT_CHECK</name>
             <description/>
             <groups>
                 <group>
-                    <name>TEMPLATES.GT</name>
+                    <name>TEMPLATES</name>
                 </group>
             </groups>
             <applications>
