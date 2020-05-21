@@ -3,7 +3,7 @@ Script and template to vmware's snapshot monitor with Zabbix.
 
 Download and import the tamplate "TEMPLATE_VMWARE_SNAPSHOT.xml" to your Zabbix.
 
-$
+$ wget https://github.com/rafamagalhaes/zabbix-vmware-snapshot-monitoring/raw/master/TEMPLATE_VMWARE_SNAPSHOT.xml
 
 Download the monitor script "vmssnapshotmonitor.sh" in externalscripts path on your Zabbix Server or Zabbix Proxy.
 
